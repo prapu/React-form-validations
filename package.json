@@ -1,0 +1,21 @@
+{
+  "name": "react-test",
+  "version": "1.0.0",
+  "description": "begin react",
+  "scripts": {
+    "tsc": "./node_modules/typescript/tsc",
+    "build": "webpack --config webpack.config.js"
+  },
+  "author": "wecode",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^16.9.2",
+    "@types/react-dom": "^16.9.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "ts-loader": "^6.0.3",
+    "typescript": "^3.6.2",
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.7"
+  }
+}
